@@ -504,6 +504,11 @@ a:hover {
     border: none;
 }
 
+#ok{
+    margin-left: 80%;
+    margin-top: 10px;
+}
+
 .user-color {
     color: #20a6dc;
 }
